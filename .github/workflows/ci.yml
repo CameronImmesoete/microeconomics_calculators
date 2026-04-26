@@ -45,4 +45,4 @@ jobs:
           yamllint -d relaxed .github/
 
       - name: Check markdown
-        uses: DavidAnson/markdownlint-cli2-action@05f32210e84442804257b2a6f7b5e2cb8524015c # v19.1.0
+        uses: DavidAnson/markdownlint-cli2-action@5b7c9f74fec47e6b15667b2cc23c63dff11e449e # v9.0.0

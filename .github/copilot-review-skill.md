@@ -5,6 +5,7 @@
 ## Repository-Specific Review Criteria
 
 ### Microeconomic Formula Correctness
+
 - Supply and demand curve equations
 - Price elasticity calculations (percentage change handling)
 - Consumer and producer surplus geometry
@@ -12,6 +13,7 @@
 - Game theory payoff matrix correctness
 
 ### Calculator Edge Cases
+
 - Zero price, zero quantity
 - Perfectly elastic/inelastic demand
 - Division by zero in elasticity calculations
